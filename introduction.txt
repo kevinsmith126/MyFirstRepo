@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hi! My name is Abagi Godsway. I am currently learning how to use Git and GitHub. I enjoy exploring how version control works and how developers collaborate on projects using Git.
+
+This course has helped me build foundational skills in managing code and repositories using GitHub.
