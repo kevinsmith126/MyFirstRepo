@@ -1,0 +1,6 @@
+# My Personal and Academic Goals for Next Year
+
+- Improve my coding skills
+- Contribute to open source projects
+- Learn data structures and algorithms
+- Finish this Git and GitHub course
